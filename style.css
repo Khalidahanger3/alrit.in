@@ -324,7 +324,7 @@ font-style: italic;
     font-weight: 300;
 }
 
-header a:hover{
+header a{
   color: yellow;
 }
 
@@ -832,7 +832,11 @@ justify-content: center;
     .name-founder{
       font-size: 13px;
     }
-
+   .founder-pic{
+      height: 220px;
+      width: 220px;
+      
+    }
 
 
 }
@@ -855,10 +859,15 @@ justify-content: center;
   
     }
     .name-founder{
-      font-size: 10px;
+      font-size: 13px;
     }
 
 
+    .founder-pic{
+      height: 210px;
+      width: 210px;
+      
+    }
 }
 
 
