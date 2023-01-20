@@ -518,6 +518,19 @@ width: 50px;
 
 
 
+@media(max-height:700px){
+
+  .logo-img{
+    height:55px;
+    width: 60px;
+  }
+
+.heading-section{
+  text-align: center;
+}
+
+} 
+
 
 /* end header */
 
