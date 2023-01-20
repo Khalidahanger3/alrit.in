@@ -147,6 +147,7 @@ header a{
   
   }
 
+
 @media(max-width:650px){
 
     .heading-section{
@@ -164,8 +165,8 @@ header a{
 
 
     #logo-img{
-        height: 120px;
-        width: 120px;
+        height: 100px;
+        width: 100px;
       
     }
 
@@ -193,8 +194,8 @@ header a{
 
 
 #logo-img{
-    height: 85px;
-    width: 85px;
+    height: 75px;
+    width: 75px;
 }
   
 
@@ -204,8 +205,6 @@ header a{
 
 
 }
-
-
 
 
 
