@@ -335,6 +335,9 @@ header a{
  text-align: center;
 }
 
+header a:hover{
+ color:white;
+}
 
     .heading-section{
     
