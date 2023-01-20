@@ -332,7 +332,7 @@ header a:hover{
 
 header a{
   padding: 6px;
- 
+ text-align: center;
 }
 
 
@@ -360,7 +360,7 @@ header a{
 @media(max-width:900px){
 
     .heading-section{
-    
+      margin-left: 10px;
         font-size: 1.5rem;
         }
         
@@ -378,11 +378,12 @@ header a{
         font-weight: 300;
         padding: 10px;
     }
-    header a{
-      padding: 6px;
-      font-size: 7px ;
-    }
 
+    .logo-img{
+      height: 95px;
+      width: 95px;
+    
+    }
   
   }
 
@@ -412,10 +413,29 @@ header a{
     }
 
     header a{
-      padding: 4px;
-      font-size: 6px ;
+      padding: 6px;
+      font-size: 7px ;
+      text-align: center;
+      margin-left: 6px;
     }
 
+    span.blue{
+      font-size: 2rem;
+     color:#0d61d8;
+      
+  }
+
+
+
+.logo-img{
+  height: 85px;
+  width: 85px;
+
+}
+
+#iso{
+  display: none;
+}
 
 }
 
@@ -431,40 +451,34 @@ header a{
         }
         
         .blue{
-            font-size: 28px;
+            font-size: 2.5rem;
            color:#0d61d8;
             
         }
     
    header{
     height: 10vh;
-    margin-top: 6px;
+    margin-top: 2px;
    }
 
-    .sub-heading{
-        border-left: 3px solid aqua;
-        width: 85%;
-        font-size: 16px;
-        /* text-align: center; */
-        font-weight: 300;
-        padding: 10px;
-    }
+
 
 .logo-img{
-  height:50px;
-  width: 50px;
+  height:75px;
+  width: 75px;
 }
 
-    header a{
-      padding-left: 10px;
-      font-size: 15px;
-      width: 75px;
-    }
+ 
 
 #iso{
   display: none;
 }
 
+header a{
+  padding: 4px;
+  font-size: 10px;
+width: 50px;
+}
 
 }
 
@@ -497,16 +511,10 @@ header a{
 
 
 
-    header a{
-      padding: 4px;
-      font-size: 10px;
-      width: 50px;
-    }
 
 
 
 } 
-
 
 
 
