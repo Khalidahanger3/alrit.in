@@ -464,12 +464,23 @@ header a:hover{
     margin-top: 2px;
    }
 
+
 #carouselExampleCaptions{
 
-height: 270px;
+height: 280px;
 
 }
 
+}
+@media(max-height:750px){
+
+#carouselExampleCaptions{
+
+height: 240px;
+
+}
+
+}
 
 .logo-img{
   height:75px;
