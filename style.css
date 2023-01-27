@@ -682,7 +682,7 @@ font-weight: 500;
 #facilities,#courses{
    
     width: 100%;
-    height: 100vh;
+    height: 105vh;
 
 }
 .heading-faci{
@@ -715,7 +715,7 @@ padding: 5px 10px;
 #facilities,#courses{
    
     width: 100%;
-    height: 110vh;
+    height: 120vh;
 
 }
 .carousel-inner {
@@ -742,7 +742,7 @@ padding: 5px 10px;
   #facilities,#courses{
      
       width: 100%;
-      height: 120vh;
+      height: 130vh;
       margin-top: 1rem;
   
   }
